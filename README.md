@@ -1,4 +1,4 @@
-# Statistical Inference and Sampling Distributions Analysis
+# Public perception of scientific work: Statistical Inference and Sampling Distributions Analysis
 
 ## Overview
 This project explores the foundations of statistical inference through sampling distributions, focusing on analyzing public perception of scientific work's benefits using simulated Gallup poll data. The analysis demonstrates how sample statistics can serve as point estimates for population parameters and investigates the properties of sampling distributions.
