@@ -95,3 +95,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact Emmanuel
 For questions or feedback about this project, please open an issue in the repository.
+- ![cf3295c1-d301-4990-b9d4-265225b43cb5](https://github.com/user-attachments/assets/1cb35e99-201a-438d-83f3-c7f69021748b)
+![b721c6ae-043d-49d1-b106-527c9a71a8a2](https://github.com/user-attachments/assets/0b0574aa-89c9-4fdb-86aa-3a501e32224b)
+![860f308c-6b40-4d4d-bf87-b129e3f79a40](https://github.com/user-attachments/assets/44b71c96-505d-4f76-b7aa-f5d5eb7b8e10)
+![dce09023-0491-499c-b747-346a074a7ce4](https://github.com/user-attachments/assets/dbfaf0b1-7472-41fd-8898-90181af529a4)
+![8f31ebf6-b74d-4410-8a01-6cf00583c726](https://github.com/user-attachments/assets/a5d47ea7-1aff-4f13-b372-c8ab2dacebb5)
+![Screenshot from 2025-02-18 21-34-59](https://github.com/user-attachments/assets/767392ac-a101-4375-96d3-363e23fb7ee5)
